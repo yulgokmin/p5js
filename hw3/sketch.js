@@ -204,6 +204,6 @@ function keyPressed(){
       blink = false;
     } // 하품하는 기능
   
-    if(key === 's');
+    if(key === 's')
     saveGif('20241813 황채민_과제 3', 10);
 }
